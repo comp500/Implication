@@ -1,13 +1,13 @@
 name = "Enhanced Workbenches"
-filename = "EnhancedWorkbenches-1.0+1.20.1.jar"
+filename = "EnhancedWorkbenches-1.0+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IhBYAM6m/versions/dipCZWtB/EnhancedWorkbenches-1.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/IhBYAM6m/versions/nqZHJnNx/EnhancedWorkbenches-1.0%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "3261e6c63ab16ff0580015e9949c03c152f573fc"
+hash = "6635ea14d1635b87aa41baae3e213eed14556339"
 
 [update]
 [update.modrinth]
 mod-id = "IhBYAM6m"
-version = "dipCZWtB"
+version = "nqZHJnNx"

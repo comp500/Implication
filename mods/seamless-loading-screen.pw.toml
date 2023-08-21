@@ -1,13 +1,13 @@
 name = "Seamless Loading Screen "
-filename = "seamless-loading-screen-2.0.0+1.20.1-fabric.jar"
+filename = "seamless-loading-screen-2.0.0+1.19.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/TyTPFOiF/versions/saLfqaDq/seamless-loading-screen-2.0.0%2B1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/TyTPFOiF/versions/uFCwt7p6/seamless-loading-screen-2.0.0%2B1.19.2-fabric.jar"
 hash-format = "sha1"
-hash = "1a5ecf3502d54f2ed2d29a37d374077e45fc570d"
+hash = "b459f7a250de59ca2726572fe24e65d1d12c077a"
 
 [update]
 [update.modrinth]
 mod-id = "TyTPFOiF"
-version = "saLfqaDq"
+version = "uFCwt7p6"

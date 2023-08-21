@@ -1,13 +1,13 @@
 name = "Profundis: Seven New Quality Cave Biomes"
-filename = "profundis-1.6.0.jar"
+filename = "profundis-1.4.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/aucz7XCt/versions/PyaRCgYQ/profundis-1.6.0.jar"
+url = "https://cdn.modrinth.com/data/aucz7XCt/versions/1.4.1/profundis-1.4.1.jar"
 hash-format = "sha1"
-hash = "f2b74afbcddf32fd89cb7eaa25708e7a4d9ba8dc"
+hash = "ce1786a3e25400a3d83e59785daaeac787ac84a2"
 
 [update]
 [update.modrinth]
 mod-id = "aucz7XCt"
-version = "PyaRCgYQ"
+version = "zv0Dk19d"

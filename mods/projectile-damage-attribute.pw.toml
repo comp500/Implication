@@ -1,13 +1,13 @@
 name = "Projectile Damage Attribute"
-filename = "projectile_damage-fabric-3.2.2+1.20.1.jar"
+filename = "projectile_damage-fabric-3.2.1+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AOyJhFvl/versions/IJYozS89/projectile_damage-fabric-3.2.2%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/AOyJhFvl/versions/qdfM9zqu/projectile_damage-fabric-3.2.1%2B1.19.jar"
 hash-format = "sha1"
-hash = "72e83cfbd4243bb28573021170a02d8f8f30fe6c"
+hash = "215e3c87b1c466fe7203e363b98c269bc1add253"
 
 [update]
 [update.modrinth]
 mod-id = "AOyJhFvl"
-version = "IJYozS89"
+version = "qdfM9zqu"

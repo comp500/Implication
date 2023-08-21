@@ -1,13 +1,13 @@
 name = "Gigeresque"
-filename = "gigeresque-1.20-0.5.37.jar"
+filename = "gigeresque-1.19.2-0.5.31.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2kXK3iBI/versions/iR99ptUh/gigeresque-1.20-0.5.37.jar"
+url = "https://cdn.modrinth.com/data/2kXK3iBI/versions/rBcH713Z/gigeresque-1.19.2-0.5.31.jar"
 hash-format = "sha1"
-hash = "755f2ffda7066096e9c55fcc9cbe511ddb8d660d"
+hash = "47df1d3a17a74390b39a49f105cad6d0840e369e"
 
 [update]
 [update.modrinth]
 mod-id = "2kXK3iBI"
-version = "iR99ptUh"
+version = "rBcH713Z"

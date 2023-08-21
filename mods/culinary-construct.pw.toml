@@ -1,13 +1,13 @@
 name = "Culinary Construct"
-filename = "culinaryconstruct-quilt-5.2.0+1.20.1.jar"
+filename = "culinaryconstruct-fabric-5.0.0+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/i0hioBIg/versions/E126bUSp/culinaryconstruct-quilt-5.2.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/i0hioBIg/versions/dq974q2B/culinaryconstruct-fabric-5.0.0%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "ddcc0d3b40de7bad7afb72733f7d13a4f1f4d5a8"
+hash = "ed1b88f3a312bd3beb397168e6d34bdd7bc6c5fd"
 
 [update]
 [update.modrinth]
 mod-id = "i0hioBIg"
-version = "E126bUSp"
+version = "dq974q2B"

@@ -1,13 +1,13 @@
 name = "Tiny Skeletons"
-filename = "TinySkeletons-v8.0.1-1.20.1-Fabric.jar"
+filename = "TinySkeletons-v4.2.2-1.19.2-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/A2xcMSUn/versions/pPzF5vy3/TinySkeletons-v8.0.1-1.20.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/A2xcMSUn/versions/4ewo2AQq/TinySkeletons-v4.2.2-1.19.2-Fabric.jar"
 hash-format = "sha1"
-hash = "f91764a744e282fc8656142eaaf13966e6add76c"
+hash = "7fa97042b6ffd076c6c92f6fffc78e38680d2415"
 
 [update]
 [update.modrinth]
 mod-id = "A2xcMSUn"
-version = "pPzF5vy3"
+version = "4ewo2AQq"

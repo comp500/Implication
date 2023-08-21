@@ -1,13 +1,13 @@
 name = "bodacious berries"
-filename = "bodacious_berries-2.1.1+mc1.20.1.jar"
+filename = "bodacious_berries-2.0.7+mc1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KEFyvbuH/versions/gMpDeb8i/bodacious_berries-2.1.1%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/KEFyvbuH/versions/sX96csRm/bodacious_berries-2.0.7%2Bmc1.19.2.jar"
 hash-format = "sha1"
-hash = "802229a9a88bdc7dbfa37380a2a3c4a0738d81d9"
+hash = "4091ce9d3f9198cdd3c8c3e96ff3d3593ee70cb8"
 
 [update]
 [update.modrinth]
 mod-id = "KEFyvbuH"
-version = "gMpDeb8i"
+version = "sX96csRm"

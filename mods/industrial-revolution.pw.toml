@@ -1,13 +1,13 @@
 name = "Industrial Revolution"
-filename = "indrev-1.16.3-BETA.jar"
+filename = "indrev-1.15.1-BETA.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kFs9AeXi/versions/yAJ7Qswn/indrev-1.16.3-BETA.jar"
 hash-format = "sha1"
-hash = "7146a8b8e5e5d4cb9d38c0174bcbb82341f74300"
+hash = "a97d030526f2dad874ff1684791885bbc8928a76"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "kFs9AeXi"
-version = "yAJ7Qswn"
+[update.curseforge]
+file-id = 4020957
+project-id = 391708

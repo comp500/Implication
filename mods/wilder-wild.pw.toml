@@ -1,13 +1,13 @@
 name = "Wilder Wild"
-filename = "WilderWild-2.1.2-Fabric+1.20.1.jar"
+filename = "WilderWild-2.0.6-Fabric+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AtHRJSUW/versions/Ej7e0VCq/WilderWild-2.1.2-Fabric%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/AtHRJSUW/versions/MTkHnvjz/WilderWild-2.0.6-Fabric%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "796ce700b2545308ccd8be1c6c5e890cf2539cdf"
+hash = "c50bcbfe862460bdaf67c4272d78f0e5e219d600"
 
 [update]
 [update.modrinth]
 mod-id = "AtHRJSUW"
-version = "Ej7e0VCq"
+version = "MTkHnvjz"

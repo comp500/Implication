@@ -1,13 +1,13 @@
 name = "FormidableFarmland"
-filename = "formidablefarmland-1.0.2+1.20.1.jar"
+filename = "formidablefarmland-1.0.1+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6KCFoYKV/versions/Doc1nCXO/formidablefarmland-1.0.2%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/6KCFoYKV/versions/ZBJJitZN/formidablefarmland-1.0.1%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "63ce04145e2c20997397678dadd815d5673a156b"
+hash = "cc5c499bf8a69507d458e4a4508587f6860f3fa2"
 
 [update]
 [update.modrinth]
 mod-id = "6KCFoYKV"
-version = "Doc1nCXO"
+version = "ZBJJitZN"
