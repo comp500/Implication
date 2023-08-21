@@ -106,11 +106,6 @@ hash = "f156a51ba3706bbdd6d38a6d5a40364cf62d4911490635d3341ff07d4acb8dc7"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "80084941067856fd4758c91fa05aad359f5d1b18991dc58cbf501c8ad921c2b7"
-metafile = true
-
-[[files]]
 file = "mods/better-end-sky.pw.toml"
 hash = "9db7e0c35795f22069c8e789d5c1276a1b433aa26f287e3e80275b244a11d2ff"
 metafile = true
