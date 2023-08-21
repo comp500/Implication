@@ -896,11 +896,6 @@ hash = "153ad0f45f02f8f53a993debb8d7c5e3ee398c95a03e7ed9fe3cdc3b40a4c35e"
 metafile = true
 
 [[files]]
-file = "mods/wilder-wild.pw.toml"
-hash = "fd388f2e0534df831360da52200cdb1bb45b764012de18050609a8d07df982f9"
-metafile = true
-
-[[files]]
 file = "mods/wizards.pw.toml"
 hash = "4876d2e577ada82b884bde50124bfc5608fcff6b050bfa6713ee359391de1667"
 metafile = true
@@ -923,11 +918,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
-metafile = true
-
-[[files]]
-file = "mods/yttr.pw.toml"
-hash = "74257a39c616938aed0b5764b244780ff7aef3fd6f7b535a9603f9d9f4a6dded"
 metafile = true
 
 [[files]]
