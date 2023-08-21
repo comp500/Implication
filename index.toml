@@ -136,6 +136,11 @@ hash = "422269e01109affac0ca7810c92a6528a050ae95f90185c6ee0baa8f1dc7fad9"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "5f3ca16d00949c3630dec43f6bba5aa8751a6f232c75414d1137298accd056e8"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
 metafile = true
@@ -158,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/can-i-mine-this-block.pw.toml"
 hash = "b1b9c9516a2c3ff06ca5061aa6b5461c36d6ee6b5f95feb3a1b510ccf94b942b"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
@@ -293,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/enchancement.pw.toml"
 hash = "a2becd97f1aeb612a79c25f426bc678791356f99f86618caf3f618e156b41b0d"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "1f87846265206279eb38e4ce9b4f69cb3a4401e8074fc69f039100713e525e58"
 metafile = true
 
 [[files]]
@@ -828,11 +843,6 @@ metafile = true
 [[files]]
 file = "mods/sync-fabric.pw.toml"
 hash = "29328041c055a8ed866e0af57c3269ecf4be986cb0769a2975191a38fa98dc35"
-metafile = true
-
-[[files]]
-file = "mods/tardim-in-control.pw.toml"
-hash = "513063c91b9dd402a004564a2eedc9381ac015d3144334aaa7a1d8a395f4129d"
 metafile = true
 
 [[files]]
