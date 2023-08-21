@@ -851,11 +851,6 @@ hash = "71b666322e9d5576b92da3ae8c22c5e7d62c9715c0e874dee94dfd2e8a61c9af"
 metafile = true
 
 [[files]]
-file = "mods/universal-graves.pw.toml"
-hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
-metafile = true
-
-[[files]]
 file = "mods/universal_ores.pw.toml"
 hash = "377f9bb0ff4133e639b9017434cb8ad9bd0af6c9eef4366de04764ab755dc688"
 metafile = true
