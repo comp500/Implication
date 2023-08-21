@@ -751,11 +751,6 @@ hash = "118362f9760d3dc05eeeb7eb505e1556dcf12ba4e14dbf2d3f47d9c2b4ceee86"
 metafile = true
 
 [[files]]
-file = "mods/simple-pipes.pw.toml"
-hash = "bcd86788e41f1d2ae9c3599bc7f5247071815fa7fe53b8523e71bd5ce58857cd"
-metafile = true
-
-[[files]]
 file = "mods/skip-transitions.pw.toml"
 hash = "70b66e2a03d8a6531f0c6e71fa9d6d878ea8f42929ac43f4295b2a3111279b86"
 metafile = true
