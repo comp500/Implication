@@ -771,6 +771,11 @@ hash = "08d9f157fea976ba8e7a20ebfce995fe5419ebddf581fcdab079aaceb33053e3"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
+metafile = true
+
+[[files]]
 file = "mods/spectrum-jetpacks.pw.toml"
 hash = "a27fd5c295fd8eab9e895daca14387327d77c068e98e16b8fcc56f5d3dac649f"
 metafile = true
