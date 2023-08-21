@@ -1,0 +1,13 @@
+name = "Logicates"
+filename = "logicates-1.1.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/edlOkmBv/versions/6mweK75k/logicates-1.1.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "973274c4a5783cf0dd1d20c095a10ae7e1816983"
+
+[update]
+[update.modrinth]
+mod-id = "edlOkmBv"
+version = "6mweK75k"

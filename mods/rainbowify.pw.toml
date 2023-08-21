@@ -1,0 +1,13 @@
+name = "rainbowify"
+filename = "rainbowify-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m9FFV06N/versions/N73uVevw/rainbowify-2.0.0.jar"
+hash-format = "sha1"
+hash = "f7b696ce0b3ab1b8ac7f445dcbd271a136144575"
+
+[update]
+[update.modrinth]
+mod-id = "m9FFV06N"
+version = "N73uVevw"

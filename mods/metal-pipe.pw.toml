@@ -1,0 +1,13 @@
+name = "Metal Pipe"
+filename = "metal_pipe-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bJ0Bn1hc/versions/vRXq6Zpj/metal_pipe-1.0.5.jar"
+hash-format = "sha1"
+hash = "50de9a81ea6aef058a1d5624c5bd2364d3453a26"
+
+[update]
+[update.modrinth]
+mod-id = "bJ0Bn1hc"
+version = "vRXq6Zpj"

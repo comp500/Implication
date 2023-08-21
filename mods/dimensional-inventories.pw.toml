@@ -1,0 +1,13 @@
+name = "Dimensional Inventories"
+filename = "dimensional-inventories-1.0.2+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gDomXOB6/versions/F0pwg0gV/dimensional-inventories-1.0.2%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "a449aa68c4df9538d9f493742ef81edad1b15487"
+
+[update]
+[update.modrinth]
+mod-id = "gDomXOB6"
+version = "F0pwg0gV"

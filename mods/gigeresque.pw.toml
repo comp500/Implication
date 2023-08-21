@@ -1,0 +1,13 @@
+name = "Gigeresque"
+filename = "gigeresque-1.20-0.5.37.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2kXK3iBI/versions/iR99ptUh/gigeresque-1.20-0.5.37.jar"
+hash-format = "sha1"
+hash = "755f2ffda7066096e9c55fcc9cbe511ddb8d660d"
+
+[update]
+[update.modrinth]
+mod-id = "2kXK3iBI"
+version = "iR99ptUh"

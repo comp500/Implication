@@ -1,0 +1,16 @@
+name = "Implication"
+author = "comp500"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d1a46c05a1b39e4f5ce83825c250e9c1e5147f1a07ea220c7baf799df4f7a76a"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.20.0-beta.15"
+
+[options]
+acceptable-game-versions = ["1.20"]

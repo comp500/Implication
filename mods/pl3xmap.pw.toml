@@ -1,0 +1,13 @@
+name = "Pl3xMap"
+filename = "Pl3xMap-1.20.1-469.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YMXhf1UJ/versions/Aziw81Ii/Pl3xMap-1.20.1-469.jar"
+hash-format = "sha1"
+hash = "e1243130008327413a1ff4b927d13f6306d11495"
+
+[update]
+[update.modrinth]
+mod-id = "YMXhf1UJ"
+version = "Aziw81Ii"

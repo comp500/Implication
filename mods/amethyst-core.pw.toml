@@ -1,0 +1,13 @@
+name = "Amethyst Core"
+filename = "amethyst_core-1.2.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UbOpZw7q/versions/NjxYldIz/amethyst_core-1.2.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "1464b53a783c45570e0b597afe3d16f0c1ab45ee"
+
+[update]
+[update.modrinth]
+mod-id = "UbOpZw7q"
+version = "NjxYldIz"
