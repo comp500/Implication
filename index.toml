@@ -221,11 +221,6 @@ hash = "be6f26ce0a809b96f4549321a1e1f5edfb12fc37871415a4eb934490bf08d6c8"
 metafile = true
 
 [[files]]
-file = "mods/ct-overhaul-village.pw.toml"
-hash = "7f569940a5ff22da0d824925fcc7803f753bda4310dde1dbf4781f1f244acd55"
-metafile = true
-
-[[files]]
 file = "mods/culinaire.pw.toml"
 hash = "343d321dbdde6669583f2c79299697ed681a0d6a294c82d6a7922bdc4a832fe9"
 metafile = true
