@@ -341,6 +341,11 @@ hash = "c4d09da0cf635a9c233ddb7eb1ea21129d1d541c132b9bb377be2a1dfdc12106"
 metafile = true
 
 [[files]]
+file = "mods/fullscreeno.pw.toml"
+hash = "4c7f9ede557a6cca6678cfd3992b99e6ac18bc5452b7570787bd5a8651ca4134"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-core.pw.toml"
 hash = "50a88dbd3f79641d1453de1208bc5572b06381684014cc898b22c0a72936200e"
 metafile = true
