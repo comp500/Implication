@@ -781,11 +781,6 @@ hash = "11452bbe58a5ce975bdf6245638082dcb8c646834492df6cd8718a6c756b7b18"
 metafile = true
 
 [[files]]
-file = "mods/spelunkery.pw.toml"
-hash = "7915d8faf00fc3985660926a830a69f9cc934e184d343ca8dc11f8009fd31994"
-metafile = true
-
-[[files]]
 file = "mods/spirit.pw.toml"
 hash = "8f3a781db770fbcdac185c49ea914cceca1b76620b7d5776dc2e7f00669c7676"
 metafile = true
