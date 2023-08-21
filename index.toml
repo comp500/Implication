@@ -91,11 +91,6 @@ hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
 metafile = true
 
 [[files]]
-file = "mods/balm.pw.toml"
-hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
-metafile = true
-
-[[files]]
 file = "mods/berries.pw.toml"
 hash = "f3df42e96be6b283d08335791686000f779a6f92bc68f0cf84876e6dee7d5282"
 metafile = true
@@ -523,11 +518,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "1dbce89c17f67f7b9111375f55f8ed07c42e0ca19572575890985f367658c075"
-metafile = true
-
-[[files]]
-file = "mods/netherportalfix.pw.toml"
-hash = "61bd48a5fbffdde5c90f98d8c96dae51d6e888a90386b5156c945ee2cd9cdbf2"
 metafile = true
 
 [[files]]
