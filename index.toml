@@ -676,11 +676,6 @@ hash = "62f6af6480f713e7f643c367a157597b3740f0fc3b9d4234adb391ecab236aaa"
 metafile = true
 
 [[files]]
-file = "mods/rainbowify.pw.toml"
-hash = "0c380f2c263747f18179d36db56109ee9f4c16916fc3757f11121d10a91eca5d"
-metafile = true
-
-[[files]]
 file = "mods/rainglow.pw.toml"
 hash = "4e8d1c0e827fb476123ca710fcdfcca5649e5ab141e4096d7a066f9b89d7d893"
 metafile = true
