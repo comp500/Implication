@@ -526,11 +526,6 @@ hash = "1dbce89c17f67f7b9111375f55f8ed07c42e0ca19572575890985f367658c075"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "df60c560c25e3711196c4969850f3a44e82c24feb80817368abda454c3112c98"
-metafile = true
-
-[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "61bd48a5fbffdde5c90f98d8c96dae51d6e888a90386b5156c945ee2cd9cdbf2"
 metafile = true
