@@ -256,11 +256,6 @@ hash = "ce46478d7297c220e75085fc756382a6eff91796ffffd3e217448e32c31cd155"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "192d5837406f350de1551233735b6de7deb374669585d8759b554edfb4f72c05"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "10eb7188bdcac0c2921050239e6c59ff85a9ee56071a5edf38f5a904d3edb08d"
 metafile = true
