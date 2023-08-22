@@ -611,11 +611,6 @@ hash = "4e8d1c0e827fb476123ca710fcdfcca5649e5ab141e4096d7a066f9b89d7d893"
 metafile = true
 
 [[files]]
-file = "mods/raknetify.pw.toml"
-hash = "b91403d79bac93eb117cd72fe96f0f35df00049a2eae54d1423df9d5c80d6e75"
-metafile = true
-
-[[files]]
 file = "mods/rats-mischief.pw.toml"
 hash = "00fc6e4d5ef0bbe09de418236eacf7e91eab04efd1f0120c2e816c181a1c97c9"
 metafile = true
