@@ -356,11 +356,6 @@ hash = "ce07b0de35f4c4c94f6e12174d7136da1ffff5e3a56b9a78ac52fc617f46a093"
 metafile = true
 
 [[files]]
-file = "mods/gravel_carts.pw.toml"
-hash = "8db583c5bfed2088b82ebe439f1c06f4686d789b46f5e0cb80da4bc5a6c4b909"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "b92f07d5a77d6dfff1a693dae256925da90483633835a4c307c95d28a12f372c"
 metafile = true
