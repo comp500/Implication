@@ -16,11 +16,6 @@ hash = "b46cc4edb8a3ca20de88d63da115110ee278a39b7077a2a51e426972128ec768"
 metafile = true
 
 [[files]]
-file = "mods/ae2.pw.toml"
-hash = "f5925000d468335e96f4510045d09fe755ac923be3fc37f0dc003fa7712a829d"
-metafile = true
-
-[[files]]
 file = "mods/amethyst-core.pw.toml"
 hash = "770273d9bb895aca0589ebaa500ea58c7da1d3c8d1cf15242035a8327273ab6d"
 metafile = true
@@ -293,11 +288,6 @@ metafile = true
 [[files]]
 file = "mods/enhanced-workbenches.pw.toml"
 hash = "dfb92b22117cbbd937157129580e635cb6162ac23d81d51f16eb5a1f64bea6cc"
-metafile = true
-
-[[files]]
-file = "mods/excorrelation.pw.toml"
-hash = "b282ef5aac0526ce966ae6461bc53be9c4545fb46182575b8e2c835961df5187"
 metafile = true
 
 [[files]]
