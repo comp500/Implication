@@ -231,11 +231,6 @@ hash = "5da34b344a9a6631a2a7218c64508f583fc74617f8afa5b343f1fcd1409c5d71"
 metafile = true
 
 [[files]]
-file = "mods/defensive-measures.pw.toml"
-hash = "fe68514f35c8004f51a4a2ea18c6b6a0048b548f7222ac1f94361d4a04fe64f6"
-metafile = true
-
-[[files]]
 file = "mods/dimensional-inventories.pw.toml"
 hash = "b7bbc017e5731e764f91b4d3b74d2051079e44e3e33af4b08c219186cf83f379"
 metafile = true
