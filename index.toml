@@ -756,11 +756,6 @@ hash = "aeee4a794e0c9299b7cce2ff085714afd46c5d2f0f9d0584a483d84891f4bd1c"
 metafile = true
 
 [[files]]
-file = "mods/sync-fabric.pw.toml"
-hash = "29328041c055a8ed866e0af57c3269ecf4be986cb0769a2975191a38fa98dc35"
-metafile = true
-
-[[files]]
 file = "mods/tardim.pw.toml"
 hash = "6f717db4ba588ece4309d9071abc3682e1d5ddb72d069bf650b978f08c15d42a"
 metafile = true
