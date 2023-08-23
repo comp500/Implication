@@ -144,11 +144,6 @@ hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
 metafile = true
 
 [[files]]
-file = "mods/bridging-mod.pw.toml"
-hash = "0871b6cd2ed91723d2f4e7bb0dcb096da5de6ef609cf9f9ef56a6acda5067ba7"
-metafile = true
-
-[[files]]
 file = "mods/calibrated.pw.toml"
 hash = "f43867f954e0433033b2e10632db165d8ac1b2bdf3cc3cd48496d75c917dae4c"
 metafile = true
