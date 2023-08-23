@@ -441,11 +441,6 @@ hash = "b7bac44462ad5eeed69247d8e6aff52285a992d1a673e94dfab4eb7a145c8b82"
 metafile = true
 
 [[files]]
-file = "mods/mage-hand.pw.toml"
-hash = "645a3b4c293519d6407e586e7ed7e985004a3e97d3f53fccd0bb9762af409e1a"
-metafile = true
-
-[[files]]
 file = "mods/magitek-mechs.pw.toml"
 hash = "a43d02aaf7b42561de3b19c7a9cca7e9a8797f75e65a479fe86130936e347cdc"
 metafile = true
