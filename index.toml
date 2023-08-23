@@ -534,6 +534,11 @@ hash = "1e1e434f917fde38e55d7783569083b327c918a2c567b5d4967e6446b69d9d9f"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "c1a7bfc0cfb46224708f22bda2af3727e5c9290fa3c36454343ae7e8056e8109"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "abd120be769d48f7e6a6d20fb14a0e94aa4edbd0914dd632b727028730ea3cb4"
 metafile = true
