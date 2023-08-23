@@ -14,11 +14,6 @@ hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true
 
 [[files]]
-file = "mods/adorn.pw.toml"
-hash = "0aa7e85b6c0cf8cc425a37350306f62b6dd119b3f384132ff3aa2e1141969251"
-metafile = true
-
-[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "b46cc4edb8a3ca20de88d63da115110ee278a39b7077a2a51e426972128ec768"
 metafile = true
