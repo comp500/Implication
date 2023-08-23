@@ -259,11 +259,6 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
-file = "mods/ecotones.pw.toml"
-hash = "ce46478d7297c220e75085fc756382a6eff91796ffffd3e217448e32c31cd155"
-metafile = true
-
-[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "c416e3d01f9fc86dddd2e1a34eefc24e51adb7911d808e324a2dfe384f46e081"
 metafile = true
@@ -581,11 +576,6 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "abd120be769d48f7e6a6d20fb14a0e94aa4edbd0914dd632b727028730ea3cb4"
-metafile = true
-
-[[files]]
-file = "mods/plant-in-a-jar.pw.toml"
-hash = "f344dd58b1d443a6f70a1c6183062d24fd815e5e82ca475efaeb51dc9d6437a0"
 metafile = true
 
 [[files]]
