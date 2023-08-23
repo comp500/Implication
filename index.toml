@@ -631,11 +631,6 @@ hash = "b5bb732948dcabfbb3727d124aa0f2b846bc0b883d98476c96d4badb757a048d"
 metafile = true
 
 [[files]]
-file = "mods/requiem.pw.toml"
-hash = "f3ee2ed045aadd9b00942c517d5b0fbddacee0bccf1a9cadfd03841e043ad155"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "625430f4374524d197165fa6d41afad3dc65a60b16ab87298cba3d47581a5485"
 metafile = true
@@ -748,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "aeee4a794e0c9299b7cce2ff085714afd46c5d2f0f9d0584a483d84891f4bd1c"
+metafile = true
+
+[[files]]
+file = "mods/sync-fabric.pw.toml"
+hash = "29328041c055a8ed866e0af57c3269ecf4be986cb0769a2975191a38fa98dc35"
 metafile = true
 
 [[files]]
