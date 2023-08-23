@@ -264,8 +264,28 @@ hash = "ce46478d7297c220e75085fc756382a6eff91796ffffd3e217448e32c31cd155"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "c416e3d01f9fc86dddd2e1a34eefc24e51adb7911d808e324a2dfe384f46e081"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "10eb7188bdcac0c2921050239e6c59ff85a9ee56071a5edf38f5a904d3edb08d"
+metafile = true
+
+[[files]]
+file = "mods/emicompat.pw.toml"
+hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "031d16eb940b9005939d24390f98f321afcbfb001a835f36c1874dd5d5cd4258"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
 
 [[files]]
@@ -286,6 +306,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-workbenches.pw.toml"
 hash = "dfb92b22117cbbd937157129580e635cb6162ac23d81d51f16eb5a1f64bea6cc"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "b155e4825310c1bbc065259a400e49b15d9930e21de0a874b03577cfca4ac772"
 metafile = true
 
 [[files]]
