@@ -519,6 +519,11 @@ hash = "1dbce89c17f67f7b9111375f55f8ed07c42e0ca19572575890985f367658c075"
 metafile = true
 
 [[files]]
+file = "mods/new-nether-chest.pw.toml"
+hash = "f9a7026288a3c8e061dfff23768b5abdccf9747ac62a468d38f561b8f261b665"
+metafile = true
+
+[[files]]
 file = "mods/numeral-ping.pw.toml"
 hash = "5cdb03823da80cc246bf744cbd758cd6f2004c94f44063cd2a46ba769f648e01"
 metafile = true
@@ -546,6 +551,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
+file = "mods/packages.pw.toml"
+hash = "7418b4718ab028dde214061c827821822bec440abd73aa0f9ef9492623f6c474"
 metafile = true
 
 [[files]]
@@ -656,6 +666,11 @@ metafile = true
 [[files]]
 file = "mods/reaper.pw.toml"
 hash = "9a10b0ff87f25d4d7210b3e39b8883768bac98d3e00b5b1bbbd1e54c8c1c3821"
+metafile = true
+
+[[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "ac31d05e5d2c1694d953820ff05fe7cfc1d91450e66430bc8904dd61a082de5a"
 metafile = true
 
 [[files]]
