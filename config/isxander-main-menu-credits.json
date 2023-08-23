@@ -1,6 +1,6 @@
 {
   "main_menu": {
-    "top_left": ["Implication"],
+    "top_left": [{"text":"Implication","italic":true,"color":"blue"}],
     "top_right": [],
     "bottom_left": [],
     "bottom_right": [],
