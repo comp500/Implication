@@ -219,11 +219,6 @@ hash = "343d321dbdde6669583f2c79299697ed681a0d6a294c82d6a7922bdc4a832fe9"
 metafile = true
 
 [[files]]
-file = "mods/culinary-construct.pw.toml"
-hash = "426ead94b28cb62d42c53f2f9fa808e520ec519b8bc744284cd2dba4d5966930"
-metafile = true
-
-[[files]]
 file = "mods/dawn.pw.toml"
 hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
 metafile = true
