@@ -816,6 +816,11 @@ hash = "ec561648b8bc606f603a15567e3df5ccdd34e26f61098fa5f4525e102d248f4b"
 metafile = true
 
 [[files]]
+file = "mods/void-fog.pw.toml"
+hash = "1136665b108fa6d4acb207b30e595dc4cc9b7a11ca414ae118e5ca967bc1da90"
+metafile = true
+
+[[files]]
 file = "mods/voidz.pw.toml"
 hash = "b23c8861a561faf127755485d626b5464e86beff310d46c634873ddd1cff4bf8"
 metafile = true
