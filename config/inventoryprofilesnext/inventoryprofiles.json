@@ -1,5 +1,8 @@
 {
     "ModSettings": {
+        "highlight_foused_items": {
+            "value": false
+        },
         "enable_profiles": {
             "value": false
         },
