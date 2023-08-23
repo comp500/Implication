@@ -724,11 +724,6 @@ hash = "6803ee2e6d7f6d15d6a9d7198fb37c57af5294e94dba16df1aec8db6f8a7ed1d"
 metafile = true
 
 [[files]]
-file = "mods/sleep-tight.pw.toml"
-hash = "d5f881f085d3e79bfc1ebd602e3c116ff5873fc265d4d19a5cd77935df5c9c5d"
-metafile = true
-
-[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "57e597fe60b83fe11787bcf048eb4f0e4d30bd90f19be574a85ceaafa3dd3c98"
 metafile = true
