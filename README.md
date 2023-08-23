@@ -1,0 +1,53 @@
+# Implication
+
+## Main mods
+- Adventure and Exploration
+    - **[Origins](https://modrinth.com/mod/origins)** Choose your species and gain special abilities!
+    - **[Campanion](https://www.modrinth.com/mod/campanion)** Get your outdoor accessories here: Rope Bridges, Grappling Hooks, Backpacks and more
+    - **[Ad Astra](https://modrinth.com/mod/ad-astra)** Explore other planets and build space stations!
+    - **[Purpeille](https://modrinth.com/mod/purpeille)** Equip yourself with ancient technology in The End
+    - **[The Bumblezone](https://modrinth.com/mod/the-bumblezone-fabric)** Venture inside a great beehive and explore the structures within!
+- Mobs and Dungeons
+    - **[MCDoom](https://modrinth.com/mod/mcdoom)** The Nether is now more dangerous than ever... will you conquer the great demons?
+    - **[Gigeresque](https://modrinth.com/mod/gigeresque)** Xenomorphs dwell deep underground...
+    - **[The Graveyard](https://modrinth.com/mod/the-graveyard-fabric)** Spooky mobs and bosses!
+    - **[Illager Invasion](https://modrinth.com/mod/illager-invasion)** More illagers, and a new boss in woodland mansions!
+    - **[AdventureZ](https://modrinth.com/mod/adventurez)** and **[VoidZ](https://modrinth.com/mod/voidz)** *Two* new endgame bosses, and many mobs to find in the world
+    - **[When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise)** Conquer expansive dungeons placed throughout the world
+    - **[Overlord](https://modrinth.com/mod/overlord)** Command an army of skeletons!
+    - **[RAT's Mischief](https://ladysnake.org/wiki/rats-mischief)** Rat mod! Certified funny!
+- Travel
+    - **[Audaki Cart Engine](https://modrinth.com/mod/audaki-cart-engine)** Minecarts are fast now!
+    - **[TARDIM](https://modrinth.com/mod/tardim)** Get around in style with this legally distinct TARDIS!
+    - **[Automobility](https://modrinth.com/mod/automobility)** Cars!
+    - **[Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft)** Planes!
+- Magic
+    - **[Bewitchment](https://modrinth.com/mod/bewitchment)** Unlock new powers with witchcraft!
+    - **[Spectrum](https://modrinth.com/mod/spectrum)** Combine colours to create powerful tools and machines
+    - **[Arcane Lanterns](https://modrinth.com/mod/arcane-lanterns)** Automate tasks with magic lanterns
+    - **[Amethyst Imbuement](https://modrinth.com/mod/amethyst-imbuement)** Use the power of crystals and gems to cast spells
+    - **[Wizards](https://modrinth.com/mod/wizards)** Wield the power of ancient runes!
+- Inventory and Storage
+    - **[Calibrated Access](https://modrinth.com/mod/calibrated)** Access blocks remotely
+    - **[Gravestones](https://modrinth.com/mod/gravestones)** Adds Graves, so you don't lose all your items when you die
+    - **[Nether Chested](https://modrinth.com/mod/new-nether-chest)** Chether nest.. harness the subspace bubble to store 8x as many items!
+    - **[Packages](https://modrinth.com/mod/packages)** Store many of a single item
+- Building
+    - **[Aurora's Decorations](https://modrinth.com/mod/aurorasdecorations)**
+    - **[Bits and Chisels](https://modrinth.com/mod/bits-and-chisels)**
+    - **[Twigs](https://modrinth.com/mod/twigs)**
+    - **[Handcrafted](https://modrinth.com/mod/handcrafted)**
+    - **[Chipped](https://modrinth.com/mod/chipped)**
+    - **[Supplementaries](https://modrinth.com/mod/supplementaries)**
+    - **[Consistency+](https://modrinth.com/mod/consistencyplus)**
+    - **[Artisanat](https://modrinth.com/mod/artisanat)**
+- Technology
+    - **[Modern Industrialization](https://modrinth.com/mod/modern-industrialization)**
+    - **[Energized Power](https://modrinth.com/mod/energized-power)**
+    - **[Industrial Revolution](https://modrinth.com/mod/industrial-revolution)**
+    - **[Powah!](https://modrinth.com/mod/powah)**
+    - **[Magitek Mechs](https://modrinth.com/mod/magitek-mechs)**
+- Food
+    - **[bodacious berries](https://modrinth.com/mod/berries)**
+    - **[Culinaire](https://modrinth.com/mod/culinaire)**
+    - **[Farmer's Delight](https://modrinth.com/mod/farmers-delight-fabric)**
