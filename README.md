@@ -29,6 +29,8 @@
     - **[Wizards](https://modrinth.com/mod/wizards)** Wield the power of ancient runes!
 - Inventory and Storage
     - **[Calibrated Access](https://modrinth.com/mod/calibrated)** Access blocks remotely
+    - **[ContainerSearcher](https://modrinth.com/mod/csearcher)** Find items quickly
+    - **[Labels](https://modrinth.com/mod/labels)** Label which chests you stored your items in!
     - **[Gravestones](https://modrinth.com/mod/gravestones)** Adds Graves, so you don't lose all your items when you die
     - **[Nether Chested](https://modrinth.com/mod/new-nether-chest)** Chether nest.. harness the subspace bubble to store 8x as many items!
     - **[Packages](https://modrinth.com/mod/packages)** Store many of a single item
