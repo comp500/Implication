@@ -224,11 +224,6 @@ hash = "5da34b344a9a6631a2a7218c64508f583fc74617f8afa5b343f1fcd1409c5d71"
 metafile = true
 
 [[files]]
-file = "mods/dimensional-inventories.pw.toml"
-hash = "b7bbc017e5731e764f91b4d3b74d2051079e44e3e33af4b08c219186cf83f379"
-metafile = true
-
-[[files]]
 file = "mods/ding.pw.toml"
 hash = "ec0f3f834a3387266d9b8fe83112e4ce802ec6926f196e6b598dc1bf7e65c393"
 metafile = true
@@ -580,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/profundis.pw.toml"
-hash = "d751ee7c0e35b4cf87517d4a0d597af63fbfd094ed1549fb3124344a428704d2"
+hash = "aab9704546ed784186ef8e665571038b298e6b97c843061691266b3757e9f74f"
 metafile = true
 
 [[files]]
