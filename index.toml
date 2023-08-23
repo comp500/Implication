@@ -5,6 +5,10 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "fda461dd681ab3b0216e6e3eefb86ebbbced8876dde123888c95bc705fdced96"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "0d0f8118b9e1fe3543181f518d4a6202e366948f956fd69df1317aa40b1ba930"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true
