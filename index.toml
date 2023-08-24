@@ -231,11 +231,6 @@ hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "5da34b344a9a6631a2a7218c64508f583fc74617f8afa5b343f1fcd1409c5d71"
-metafile = true
-
-[[files]]
 file = "mods/ding.pw.toml"
 hash = "ec0f3f834a3387266d9b8fe83112e4ce802ec6926f196e6b598dc1bf7e65c393"
 metafile = true
@@ -768,6 +763,11 @@ metafile = true
 [[files]]
 file = "mods/tardim.pw.toml"
 hash = "6f717db4ba588ece4309d9071abc3682e1d5ddb72d069bf650b978f08c15d42a"
+metafile = true
+
+[[files]]
+file = "mods/teabridge.pw.toml"
+hash = "31c958d24b7791b0cc05a1617c76500e732fc90f5837df82339833c246243d93"
 metafile = true
 
 [[files]]
