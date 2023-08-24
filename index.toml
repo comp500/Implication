@@ -17,10 +17,6 @@ file = "config/isxander-main-menu-credits.json"
 hash = "a869070a6f16a693aab44df8124346978b4e2b12bde96b8a37519182af72ef72"
 
 [[files]]
-file = "config/travelerstitles-fabric-1_19.toml"
-hash = "c879571085088dc32b78f7c277fa7e5945b7a4d47a8e71e9452f57959ddbd4e6"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true
