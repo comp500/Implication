@@ -874,3 +874,8 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "e8036308d5fdaf3e155684892dffa19122c31745c40fbe55027a1677179263d7"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "9f85daa26e5efe3fb463ca9a6af4fdd0f318459fa536bac19bbbf9ab03f9ca1b"
+preserve = true
