@@ -9,6 +9,10 @@ file = "config/cinderscapes.json"
 hash = "ce191e1704db0a75993861f19b8f0567386e9477025ee9c98bee3f7d84a56be0"
 
 [[files]]
+file = "config/fabrication/features.ini"
+hash = "b58327ffdfe04c01e70aa1b87a2f1e64e9f4e50a882ef434603c32f9ecbc0f0b"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "d704d3c25794244a5767a9811b4a09cba719ba84634927374fc928868ea079a0"
 
