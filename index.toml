@@ -14,7 +14,7 @@ hash = "b58327ffdfe04c01e70aa1b87a2f1e64e9f4e50a882ef434603c32f9ecbc0f0b"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "d704d3c25794244a5767a9811b4a09cba719ba84634927374fc928868ea079a0"
+hash = "5bc3ec4b5c7c362ee1c41467c63d7d84cb3acaef23db0acf1bd0ffba5efe70c9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -877,5 +877,5 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9f85daa26e5efe3fb463ca9a6af4fdd0f318459fa536bac19bbbf9ab03f9ca1b"
+hash = "a2dce38802770650a3eaa764bd6015dae3129e462be7605b6493d2901dbea5eb"
 preserve = true
