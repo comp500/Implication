@@ -467,6 +467,11 @@ hash = "91a395a1f17009e466a4dfc183ce276026dc89a77c93dabd9cfce25f79e173d7"
 metafile = true
 
 [[files]]
+file = "mods/mialee-misc.pw.toml"
+hash = "b87c996904a4fcafbef9bad5bf62971efc18ca2b6e5c35847cc44bf3fe2be7df"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
 metafile = true
