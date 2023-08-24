@@ -17,6 +17,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "a869070a6f16a693aab44df8124346978b4e2b12bde96b8a37519182af72ef72"
 
 [[files]]
+file = "config/lithium.properties"
+hash = "cb45436bf486d3eddd7388b5846557d25de37df317622edcfd4de3b530f934ab"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true
