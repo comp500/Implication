@@ -5,6 +5,10 @@ file = "README.md"
 hash = "2c018f74abfd995419efd6eafaa83823a81caf65309aa975bacc5aac63391e1e"
 
 [[files]]
+file = "config/cinderscapes.json"
+hash = "ce191e1704db0a75993861f19b8f0567386e9477025ee9c98bee3f7d84a56be0"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "d704d3c25794244a5767a9811b4a09cba719ba84634927374fc928868ea079a0"
 
