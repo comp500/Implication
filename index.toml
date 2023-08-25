@@ -226,6 +226,11 @@ hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
 metafile = true
 
 [[files]]
+file = "mods/death-knell.pw.toml"
+hash = "113786a218f7523b6e9162710bbc492f442417e9324f3875122e6dc80dfcdfcf"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "ec0f3f834a3387266d9b8fe83112e4ce802ec6926f196e6b598dc1bf7e65c393"
 metafile = true
