@@ -71,6 +71,11 @@ hash = "c3f1b180bff0edf7287845b2a438762bb71e019e5bd30ef9cbf4a713722e8a18"
 metafile = true
 
 [[files]]
+file = "mods/async-locator.pw.toml"
+hash = "d7d55107c94e291c3879e3194af145b8bc55afa2689eda74d93be73d76a6a838"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "ad4d2ce6ff45cd1a432cd65ab924e9d0c58810f9f31dc1e4f9e91335654ee29f"
 metafile = true
