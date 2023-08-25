@@ -176,11 +176,6 @@ hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
-metafile = true
-
-[[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "9b995af454d8e7458cb2862c25f2e8c75f623aacaad97a6e810d3b9d12024394"
 metafile = true
@@ -288,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/fabrication.pw.toml"
 hash = "5fdd2655f5904ed2b968f2ef8a4ab261af96ef15457530b0c9072a926dc913a9"
+metafile = true
+
+[[files]]
+file = "mods/fabricquilt-chunk-pregenerator.pw.toml"
+hash = "357c7a4f0dbaf6efa9e300d062f911944250aaedf7be1cbbb2d8209f2c57ad85"
 metafile = true
 
 [[files]]
