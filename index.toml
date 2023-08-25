@@ -21,6 +21,10 @@ file = "config/lithium.properties"
 hash = "cb45436bf486d3eddd7388b5846557d25de37df317622edcfd4de3b530f934ab"
 
 [[files]]
+file = "config/pickupnotifier/pickupnotifier-client.toml"
+hash = "df9c267d6af78503ed8a413adf44efbb1e46bdb11d15c58f240f875c80758985"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true
