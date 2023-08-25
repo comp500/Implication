@@ -25,6 +25,10 @@ file = "config/pickupnotifier/pickupnotifier-client.toml"
 hash = "df9c267d6af78503ed8a413adf44efbb1e46bdb11d15c58f240f875c80758985"
 
 [[files]]
+file = "config/tardim.json"
+hash = "9ce4aef512e9c07be01741bb1ad0d768a0adc0346cff51a82ad3d17106fa619d"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true
