@@ -1,6 +1,6 @@
 name = "Quick Connect Button"
 filename = "QuickConnectButton-1.2.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/erzkR85H/versions/1.2.1/QuickConnectButton-1.2.1.jar"

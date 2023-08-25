@@ -1,6 +1,6 @@
 name = "EMICompat"
 filename = "emicompat-2.0.3.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/cK0i8gTV/versions/T2RoU5TJ/emicompat-2.0.3.jar"

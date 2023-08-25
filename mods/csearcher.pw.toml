@@ -1,6 +1,6 @@
 name = "ContainerSearcher"
 filename = "ContainerSearcher-0.1.7+mc1.19.2.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IK1wshSh/versions/W13ulbeG/ContainerSearcher-0.1.7%2Bmc1.19.2.jar"

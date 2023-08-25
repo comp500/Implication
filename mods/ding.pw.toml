@@ -1,6 +1,6 @@
 name = "Ding"
 filename = "Ding-1.19.2-Fabric-1.4.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/UEtTD3gP/versions/9KwjscrL/Ding-1.19.2-Fabric-1.4.1.jar"

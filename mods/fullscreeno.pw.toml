@@ -1,6 +1,6 @@
 name = "fullscreeNO"
 filename = "fullscreeNO-1.0.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/63dF5mMb/versions/1.0.0/fullscreeNO-1.0.0.jar"

@@ -1,6 +1,6 @@
 name = "Numeral Ping"
 filename = "numeralping-1.1.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XLd8Sh64/versions/zYo4Az2p/numeralping-1.1.0.jar"
