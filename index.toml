@@ -206,6 +206,10 @@ hash = "9f8eb4c7de8c63a70721881bf949c022e3362d951230fa88bd11d0dba6e1d8f6"
 metafile = true
 
 [[files]]
+file = "mods/core-3.6.8-patch.filewatcher.jar"
+hash = "60a7a003a531129c762d5ac5b0e25f0884fce3d966900f6d67286dea9818becc"
+
+[[files]]
 file = "mods/couplings.pw.toml"
 hash = "e9959b342401ffdb0ddae4e9fd151b97a9cb94624d4658daafdac0c17d8bc262"
 metafile = true
@@ -409,6 +413,10 @@ metafile = true
 file = "mods/jamlib.pw.toml"
 hash = "d1df8e86811120c594a88895d3366d000736a6c1fad7124a72c8f05925775095"
 metafile = true
+
+[[files]]
+file = "mods/json-3.6.8-patch.filewatcher.jar"
+hash = "0f6794e145a266624d76a26f49a5521c08b6fe11db471e1b2bdb42b34fa723ef"
 
 [[files]]
 file = "mods/krypton.pw.toml"
@@ -622,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
+hash = "92526ebb5274cb1468b07aeb4a372da100b51656d89a38dddf0aab32f657cd8e"
 metafile = true
 
 [[files]]
@@ -806,6 +814,10 @@ hash = "74e0c671dc77205f24cd897462d30b8041749a7c08f6f3e2f69bc544c3bdd737"
 metafile = true
 
 [[files]]
+file = "mods/toml-3.6.8-patch.filewatcher.jar"
+hash = "0115b8cd5b7730c440ae22282553f319f1067936f03af7fd08d49896222a78a7"
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
 metafile = true
@@ -884,6 +896,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
+
+[[files]]
+file = "mods/yaml-3.6.8-patch.filewatcher.jar"
+hash = "34e92dea52e45621bac95ecb2d1243ee9effb1fa1823f9d06fbaddfd5c1cbf68"
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
