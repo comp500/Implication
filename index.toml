@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/amethyst-core.pw.toml"
-hash = "770273d9bb895aca0589ebaa500ea58c7da1d3c8d1cf15242035a8327273ab6d"
+hash = "76fe716546a596fd603184374bf6e80476ca25f857c80b99b5a08dfc82ea64e5"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "1630afa2bef8a8af5419ceec9fab64fdd50ec523653f6860818d8e8d975ca004"
+hash = "f54face60ea1082c68ce5c9a48dd9d142e7018cce127596fb4671642021057be"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-core.pw.toml"
-hash = "50a88dbd3f79641d1453de1208bc5572b06381684014cc898b22c0a72936200e"
+hash = "14fe1ca5773d7e3825557ed8104f19a053e66e8b2426f21cd5f1f745163238d4"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdoom.pw.toml"
-hash = "91a395a1f17009e466a4dfc183ce276026dc89a77c93dabd9cfce25f79e173d7"
+hash = "02b0f7ba0734a0020f6e32370fb20e06cb4c37e952a89420811001623b33761d"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "92526ebb5274cb1468b07aeb4a372da100b51656d89a38dddf0aab32f657cd8e"
+hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "b5bb732948dcabfbb3727d124aa0f2b846bc0b883d98476c96d4badb757a048d"
+hash = "72a369066ded78fdf4592fa4643b9fc642230cc0b733eab8c03b733286216900"
 metafile = true
 
 [[files]]
@@ -722,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "08d9f157fea976ba8e7a20ebfce995fe5419ebddf581fcdab079aaceb33053e3"
+hash = "54cac98b06ae8ec7657b8fb5e179badaab2754de70549a46092cf8de6f8d8f70"
 metafile = true
 
 [[files]]
@@ -757,7 +757,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "aeee4a794e0c9299b7cce2ff085714afd46c5d2f0f9d0584a483d84891f4bd1c"
+hash = "fd7aacd55b877a27ce7953171535f1c7973502c0fd1cf482bfae5bc14cd29d35"
 metafile = true
 
 [[files]]
@@ -857,12 +857,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ffe01419467a13b32aba09f01ae33642f8c44a7e58f94e82958faee7c5ecb619"
+hash = "96d953f4293e5a7ec1d81eecf816c983644e62591c5361fa0149a180f38bc654"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7e6ed0957f98c3fed699fd9f8e5528e7dd6e6ec4e5b44f6d67f2aacbc3e557b6"
+hash = "8d86e2ba983d42d1a3f5f55d483d34db69f3ec62205bc84ff9169592ba2a3bee"
 metafile = true
 
 [[files]]

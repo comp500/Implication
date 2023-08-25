@@ -1,13 +1,13 @@
 name = "MCDoom"
-filename = "MCDoom-Fabric-1.19.2-5.0.5.jar"
+filename = "MCDoom-Fabric-1.19.2-5.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Mfo4FiDF/versions/twDyYWPc/MCDoom-Fabric-1.19.2-5.0.5.jar"
+url = "https://cdn.modrinth.com/data/Mfo4FiDF/versions/vDMUWG3U/MCDoom-Fabric-1.19.2-5.0.6.jar"
 hash-format = "sha1"
-hash = "afa2af8e56e37d2280b1bc7bf941ac457c943f0b"
+hash = "88f3858d162140a6003b6348e69ed1d4006b083f"
 
 [update]
 [update.modrinth]
 mod-id = "Mfo4FiDF"
-version = "twDyYWPc"
+version = "vDMUWG3U"
